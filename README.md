@@ -1,6 +1,6 @@
 # MH-OQA
 
-Code for Adaptive Multi-modal Quantized Hashing
+Code for  Multi-modal Hashing with Online Query-Adaption
 
 Prerequisities
 
